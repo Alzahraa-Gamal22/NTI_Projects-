@@ -1,14 +1,14 @@
-\# Employee Attrition Analysis
+# Employee Attrition Analysis
 
 
 
-\## Overview
+## Overview
 
 This project analyzes employee attrition data to identify the key factors influencing employee turnover. The analysis includes data cleaning, exploratory data analysis (EDA), feature engineering, visualization, and business recommendations.
 
 
 
-\## Project Files
+## Project Files
 
 \- `Coding\_Employee\_Attrition.ipynb` – Data cleaning, EDA, and analysis.
 
@@ -20,7 +20,7 @@ This project analyzes employee attrition data to identify the key factors influe
 
 
 
-\## Tools \& Libraries
+## Tools \& Libraries
 
 \- Python
 
@@ -34,7 +34,7 @@ This project analyzes employee attrition data to identify the key factors influe
 
 
 
-\## Key Insights
+## Key Insights
 
 \- Overtime significantly increases attrition.
 
@@ -46,7 +46,7 @@ This project analyzes employee attrition data to identify the key factors influe
 
 
 
-\## Additional Documentation
+## Additional Documentation
 
 
 
@@ -60,7 +60,7 @@ For the complete analysis, visualizations, business insights, and recommendation
 
 
 
-\## Author
+## Author
 
 \*\*Alzahraa Gamal\*\*
 
